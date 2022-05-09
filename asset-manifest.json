@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://monesga.github.io/csb-8mfhwi/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://monesga.github.io/csb-8mfhwi/static/js/main.49e74e71.chunk.js",
+    "main.js.map": "https://monesga.github.io/csb-8mfhwi/static/js/main.49e74e71.chunk.js.map",
+    "runtime-main.js": "https://monesga.github.io/csb-8mfhwi/static/js/runtime-main.d9eae98c.js",
+    "runtime-main.js.map": "https://monesga.github.io/csb-8mfhwi/static/js/runtime-main.d9eae98c.js.map",
+    "static/js/2.fed954ee.chunk.js": "https://monesga.github.io/csb-8mfhwi/static/js/2.fed954ee.chunk.js",
+    "static/js/2.fed954ee.chunk.js.map": "https://monesga.github.io/csb-8mfhwi/static/js/2.fed954ee.chunk.js.map",
+    "index.html": "https://monesga.github.io/csb-8mfhwi/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://monesga.github.io/csb-8mfhwi/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fed954ee.chunk.js.LICENSE.txt": "https://monesga.github.io/csb-8mfhwi/static/js/2.fed954ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9eae98c.js",
+    "static/js/2.fed954ee.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.49e74e71.chunk.js"
+  ]
+}
